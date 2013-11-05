@@ -1,4 +1,4 @@
-Scala - Coursera
+Functional Programming with Scala - Coursera
 ===========
 
-This project is to keep track of my assignments on Coursera - Functional Programming Principles in Scala by Martin Odersky.
+To keep track of assignments on Coursera - Functional Programming Principles in Scala.
